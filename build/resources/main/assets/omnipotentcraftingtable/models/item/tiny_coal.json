@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "omnipotentcraftingtable:items/530589"
+    "layer0": "omnipotentcraftingtable:items/tiny_coal"
   }
 }
