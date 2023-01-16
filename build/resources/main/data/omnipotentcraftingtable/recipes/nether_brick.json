@@ -5,7 +5,7 @@
       "item": "minecraft:netherrack"
     },
     {
-      "item": "minecraft:coal"
+      "tag": "omnipotentcraftingtable:oct_fuel"
     }
   ],
   "result": {

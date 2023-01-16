@@ -5,7 +5,7 @@
       "item": "minecraft:chorus_fruit"
     },
     {
-      "item": "minecraft:coal"
+      "tag": "omnipotentcraftingtable:oct_fuel"
     }
   ],
   "result": {

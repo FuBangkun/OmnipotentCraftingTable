@@ -5,7 +5,7 @@
       "item": "minecraft:coal_ore"
     },
     {
-      "item": "minecraft:coal"
+      "tag": "omnipotentcraftingtable:oct_fuel"
     }
   ],
   "result": {

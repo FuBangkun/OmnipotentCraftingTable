@@ -3,6 +3,9 @@
   "ingredients": [
     {
       "item": "minecraft:golden_leggings"
+    },
+    {
+      "tag": "omnipotentcraftingtable:oct_fuel"
     }
   ],
   "result": {

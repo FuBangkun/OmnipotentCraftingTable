@@ -5,7 +5,7 @@
       "item": "minecraft:red_terracotta"
     },
     {
-      "item": "minecraft:coal"
+      "tag": "omnipotentcraftingtable:oct_fuel"
     }
   ],
   "result": {

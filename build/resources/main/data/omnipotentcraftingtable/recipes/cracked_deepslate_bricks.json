@@ -5,7 +5,7 @@
       "item": "minecraft:deepslate_bricks"
     },
     {
-      "item": "minecraft:coal"
+      "tag": "omnipotentcraftingtable:oct_fuel"
     }
   ],
   "result": {

@@ -3,6 +3,9 @@
   "ingredients": [
     {
       "item": "minecraft:chainmail_helmet"
+    },
+    {
+      "tag": "omnipotentcraftingtable:oct_fuel"
     }
   ],
   "result": {

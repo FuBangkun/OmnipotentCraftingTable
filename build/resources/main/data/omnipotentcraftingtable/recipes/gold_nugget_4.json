@@ -5,7 +5,7 @@
       "item": "minecraft:golden_boots"
     },
     {
-      "item": "minecraft:coal"
+      "tag": "omnipotentcraftingtable:oct_fuel"
     }
   ],
   "result": {

@@ -1,0 +1,21 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:TinyCoal"
+      },
+      {
+        "value": "CUSTOM:TinyCharcoal"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "oct_fuel",
+    "namespace": "mod"
+  }
+}
