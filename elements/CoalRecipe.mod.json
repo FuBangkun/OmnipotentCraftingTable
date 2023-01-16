@@ -7,7 +7,7 @@
     "cookingTime": 200,
     "recipeRetstackSize": 1,
     "group": "",
-    "recipeShapeless": false,
+    "recipeShapeless": true,
     "recipeSlots": [
       {
         "value": "CUSTOM:TinyCoal"
@@ -22,16 +22,16 @@
         "value": "CUSTOM:TinyCoal"
       },
       {
-        "value": ""
-      },
-      {
-        "value": ""
+        "value": "CUSTOM:TinyCoal"
       },
       {
         "value": "CUSTOM:TinyCoal"
       },
       {
-        "value": ""
+        "value": "CUSTOM:TinyCoal"
+      },
+      {
+        "value": "CUSTOM:TinyCoal"
       },
       {
         "value": ""

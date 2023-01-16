@@ -948,7 +948,7 @@
       "type": "recipe",
       "sortid": 118,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "coal_recipe",
       "path": "~/TinyCoal"
     },
@@ -957,9 +957,60 @@
       "type": "recipe",
       "sortid": 119,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "charcoal_recipe",
       "path": "~/TinyCoal"
+    },
+    {
+      "name": "WoodenArmor",
+      "type": "armor",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/WoodenArmor"
+    },
+    {
+      "name": "WoodenArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "wooden_armor_helmet_recipe",
+      "path": "~/WoodenArmor"
+    },
+    {
+      "name": "WoodenArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "wooden_armor_body_recipe",
+      "path": "~/WoodenArmor"
+    },
+    {
+      "name": "WoodenArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "wooden_armor_leggings_recipe",
+      "path": "~/WoodenArmor"
+    },
+    {
+      "name": "WoodenArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "wooden_armor_boots_recipe",
+      "path": "~/WoodenArmor"
     }
   ],
   "variable_elements": [],
@@ -967,10 +1018,18 @@
   "language_map": {
     "en_us": {
       "item.omnipotentcraftingtable.tiny_charcoal": "Tiny Charcoal",
+      "item.omnipotentcraftingtable.wooden_armor_helmet": "Wooden Helmet",
+      "item.omnipotentcraftingtable.wooden_armor_leggings": "Wooden Leggings",
+      "item.omnipotentcraftingtable.wooden_armor_chestplate": "Wooden Chestplate",
+      "item.omnipotentcraftingtable.wooden_armor_boots": "Wooden Boots",
       "item.omnipotentcraftingtable.tiny_coal": "Tiny Coal"
     },
     "zh_cn": {
       "item.omnipotentcraftingtable.tiny_charcoal": "小型木炭",
+      "item.omnipotentcraftingtable.wooden_armor_helmet": "木头盔",
+      "item.omnipotentcraftingtable.wooden_armor_leggings": "木护腿",
+      "item.omnipotentcraftingtable.wooden_armor_chestplate": "木胸甲",
+      "item.omnipotentcraftingtable.wooden_armor_boots": "木靴子",
       "item.omnipotentcraftingtable.tiny_coal": "小型煤炭"
     }
   },
@@ -980,13 +1039,17 @@
       {
         "name": "TinyCoal",
         "children": []
+      },
+      {
+        "name": "WoodenArmor",
+        "children": []
       }
     ]
   },
   "workspaceSettings": {
     "modid": "omnipotentcraftingtable",
     "modName": "OmnipotentCraftingTable",
-    "version": "1.0.3",
+    "version": "1.0.2",
     "description": "Enables the crafting table to make recipes for other squares.",
     "author": "FuBangkun",
     "websiteURL": "https://mcreator.net",

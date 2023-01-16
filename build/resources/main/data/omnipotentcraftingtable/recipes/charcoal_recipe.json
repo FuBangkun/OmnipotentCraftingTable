@@ -1,15 +1,31 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "XXX",
-    "XXX",
-    "XXX"
-  ],
-  "key": {
-    "X": {
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "omnipotentcraftingtable:tiny_charcoal"
+    },
+    {
+      "item": "omnipotentcraftingtable:tiny_charcoal"
+    },
+    {
+      "item": "omnipotentcraftingtable:tiny_charcoal"
+    },
+    {
+      "item": "omnipotentcraftingtable:tiny_charcoal"
+    },
+    {
+      "item": "omnipotentcraftingtable:tiny_charcoal"
+    },
+    {
+      "item": "omnipotentcraftingtable:tiny_charcoal"
+    },
+    {
+      "item": "omnipotentcraftingtable:tiny_charcoal"
+    },
+    {
       "item": "omnipotentcraftingtable:tiny_charcoal"
     }
-  },
+  ],
   "result": {
     "item": "minecraft:charcoal",
     "count": 1
