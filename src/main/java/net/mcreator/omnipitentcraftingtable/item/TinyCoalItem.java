@@ -1,12 +1,44 @@
 
 package net.mcreator.omnipitentcraftingtable.item;
 
-import net.minecraft.world.item.Rarity;
-import net.minecraft.world.item.Item;
-import net.minecraft.world.item.CreativeModeTab;
+import net.minecraftforge.registries.ObjectHolder;
 
-public class TinyCoalItem extends Item {
-	public TinyCoalItem() {
-		super(new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(64).rarity(Rarity.COMMON));
+import net.minecraft.item.Rarity;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.ItemGroup;
+import net.minecraft.item.Item;
+import net.minecraft.block.BlockState;
+
+import net.mcreator.omnipitentcraftingtable.OmnipotentcraftingtableModElements;
+
+@OmnipotentcraftingtableModElements.ModElement.Tag
+public class TinyCoalItem extends OmnipotentcraftingtableModElements.ModElement {
+	@ObjectHolder("omnipotentcraftingtable:tiny_coal")
+	public static final Item block = null;
+
+	public TinyCoalItem(OmnipotentcraftingtableModElements instance) {
+		super(instance, 111);
+	}
+
+	@Override
+	public void initElements() {
+		elements.items.add(() -> new ItemCustom());
+	}
+
+	public static class ItemCustom extends Item {
+		public ItemCustom() {
+			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64).rarity(Rarity.COMMON));
+			setRegistryName("tiny_coal");
+		}
+
+		@Override
+		public int getItemEnchantability() {
+			return 0;
+		}
+
+		@Override
+		public float getDestroySpeed(ItemStack par1ItemStack, BlockState par2Block) {
+			return 1F;
+		}
 	}
 }

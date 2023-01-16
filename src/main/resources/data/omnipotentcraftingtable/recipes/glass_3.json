@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "create:horizontal_framed_glass"
+    },
+    {
+      "tag": "omnipotentcraftingtable:oct_fuel"
+    }
+  ],
+  "result": {
+    "item": "minecraft:glass",
+    "count": 1
+  }
+}

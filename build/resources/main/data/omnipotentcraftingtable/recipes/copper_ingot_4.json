@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "create:crushed_copper_ore"
+    },
+    {
+      "tag": "omnipotentcraftingtable:oct_fuel"
+    }
+  ],
+  "result": {
+    "item": "minecraft:copper_ingot",
+    "count": 1
+  }
+}

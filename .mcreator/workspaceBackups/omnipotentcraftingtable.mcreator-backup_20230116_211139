@@ -1,0 +1,1019 @@
+{
+  "mod_elements": [
+    {
+      "name": "Stone",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "stone"
+    },
+    {
+      "name": "NetherBrick",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "nether_brick"
+    },
+    {
+      "name": "WhiteGlazedTerracotta",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "white_glazed_terracotta"
+    },
+    {
+      "name": "OrangeGlazedTerracotta",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "orange_glazed_terracotta"
+    },
+    {
+      "name": "MagentaGlazedTerracotta",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "magenta_glazed_terracotta"
+    },
+    {
+      "name": "LightBlueGlazedTerracotta",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "light_blue_glazed_terracotta"
+    },
+    {
+      "name": "YellowGlazedTerracotta",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "yellow_glazed_terracotta"
+    },
+    {
+      "name": "LimeGlazedTerracotta",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "lime_glazed_terracotta"
+    },
+    {
+      "name": "PinkGlazedTerracotta",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "pink_glazed_terracotta"
+    },
+    {
+      "name": "GrayGlazedTerracotta",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gray_glazed_terracotta"
+    },
+    {
+      "name": "LightGrayGlazedTerracotta",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "light_gray_glazed_terracotta"
+    },
+    {
+      "name": "CyanGlazedTerracotta",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cyan_glazed_terracotta"
+    },
+    {
+      "name": "PurpleGlazedTerracotta",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "purple_glazed_terracotta"
+    },
+    {
+      "name": "BlueGlazedTerracotta",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "blue_glazed_terracotta"
+    },
+    {
+      "name": "BrownGlazedTerracotta",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "brown_glazed_terracotta"
+    },
+    {
+      "name": "GreenGlazedTerracotta",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "green_glazed_terracotta"
+    },
+    {
+      "name": "RedGlazedTerracotta",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "red_glazed_terracotta"
+    },
+    {
+      "name": "BlackGlazedTerracotta",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "black_glazed_terracotta"
+    },
+    {
+      "name": "Charcoal",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "charcoal"
+    },
+    {
+      "name": "EmeraldRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "emerald_recipe"
+    },
+    {
+      "name": "EmeraldRecipe2",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "emerald_recipe_2"
+    },
+    {
+      "name": "IronIngot",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "iron_ingot"
+    },
+    {
+      "name": "IronIngot2",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "iron_ingot_2"
+    },
+    {
+      "name": "IronIngot3",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "iron_ingot_3"
+    },
+    {
+      "name": "Coal",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "coal"
+    },
+    {
+      "name": "Coal2",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "coal_2"
+    },
+    {
+      "name": "SmoothQuartz",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "smooth_quartz"
+    },
+    {
+      "name": "SmoothSandstone",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "smooth_sandstone"
+    },
+    {
+      "name": "CrackedDeepslateBricks",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cracked_deepslate_bricks"
+    },
+    {
+      "name": "LapisLazuli",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "lapis_lazuli"
+    },
+    {
+      "name": "LapisLazuli2",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "lapis_lazuli_2"
+    },
+    {
+      "name": "CopperIngot",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "copper_ingot"
+    },
+    {
+      "name": "CopperIngot2",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "copper_ingot_2"
+    },
+    {
+      "name": "CopperIngot3",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "copper_ingot_3"
+    },
+    {
+      "name": "DiamondRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "diamond_recipe"
+    },
+    {
+      "name": "DiamondRecipe2",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "diamond_recipe_2"
+    },
+    {
+      "name": "Sponge",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "sponge"
+    },
+    {
+      "name": "NetheriteScrap",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "netherite_scrap"
+    },
+    {
+      "name": "CookedBeef",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cooked_beef"
+    },
+    {
+      "name": "GoldIngot",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gold_ingot"
+    },
+    {
+      "name": "GoldIngot2",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gold_ingot_2"
+    },
+    {
+      "name": "GoldIngot3",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gold_ingot_3"
+    },
+    {
+      "name": "GoldIngot4",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gold_ingot_4"
+    },
+    {
+      "name": "CrackedDeepslateTiles",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cracked_deepslate_tiles"
+    },
+    {
+      "name": "BakedPotato",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "baked_potato"
+    },
+    {
+      "name": "GreenDye",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "green_dye"
+    },
+    {
+      "name": "CookedSalmon",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cooked_salmon"
+    },
+    {
+      "name": "CookedRabbit",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cooked_rabbit"
+    },
+    {
+      "name": "CrackedStoneBricks",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cracked_stone_bricks"
+    },
+    {
+      "name": "SmoothStone",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "smooth_stone"
+    },
+    {
+      "name": "CookedMutton",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cooked_mutton"
+    },
+    {
+      "name": "SmoothBasalt",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "smooth_basalt"
+    },
+    {
+      "name": "Glass",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "glass"
+    },
+    {
+      "name": "Redstone",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "redstone"
+    },
+    {
+      "name": "Redstone2",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "redstone_2"
+    },
+    {
+      "name": "Terracotta",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "terracotta"
+    },
+    {
+      "name": "Quartz",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "quartz"
+    },
+    {
+      "name": "DriedKelp",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "dried_kelp"
+    },
+    {
+      "name": "CookedCod",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cooked_cod"
+    },
+    {
+      "name": "Brick",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "brick"
+    },
+    {
+      "name": "SmootRedSandstone",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "smoot_red_sandstone"
+    },
+    {
+      "name": "CrackedPolishedBlackstoneBricks",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cracked_polished_blackstone_bricks"
+    },
+    {
+      "name": "LimeDye",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "lime_dye"
+    },
+    {
+      "name": "PoppedChorusFruit",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "popped_chorus_fruit"
+    },
+    {
+      "name": "CookedPorkchop",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cooked_porkchop"
+    },
+    {
+      "name": "CookedChicken",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cooked_chicken"
+    },
+    {
+      "name": "CrackedNetherBrick",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cracked_nether_brick"
+    },
+    {
+      "name": "Deepslate",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "deepslate"
+    },
+    {
+      "name": "IronNugget",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "iron_nugget"
+    },
+    {
+      "name": "IronNugget2",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "iron_nugget_2"
+    },
+    {
+      "name": "IronNugget3",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "iron_nugget_3"
+    },
+    {
+      "name": "IronNugget4",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "iron_nugget_4"
+    },
+    {
+      "name": "IronNugget5",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "iron_nugget_5"
+    },
+    {
+      "name": "IronNugget6",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "iron_nugget_6"
+    },
+    {
+      "name": "IronNugget7",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "iron_nugget_7"
+    },
+    {
+      "name": "IronNugget8",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "iron_nugget_8"
+    },
+    {
+      "name": "IronNugget9",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "iron_nugget_9"
+    },
+    {
+      "name": "IronNugget10",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "iron_nugget_10"
+    },
+    {
+      "name": "IronNugget11",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "iron_nugget_11"
+    },
+    {
+      "name": "IronNugget12",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "iron_nugget_12"
+    },
+    {
+      "name": "IronNugget13",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "iron_nugget_13"
+    },
+    {
+      "name": "IronNugget14",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "iron_nugget_14"
+    },
+    {
+      "name": "GoldNugget",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gold_nugget"
+    },
+    {
+      "name": "GoldNugget2",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gold_nugget_2"
+    },
+    {
+      "name": "GoldNugget3",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gold_nugget_3"
+    },
+    {
+      "name": "GoldNugget4",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gold_nugget_4"
+    },
+    {
+      "name": "GoldNugget5",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gold_nugget_5"
+    },
+    {
+      "name": "GoldNugget6",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gold_nugget_6"
+    },
+    {
+      "name": "GoldNugget7",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gold_nugget_7"
+    },
+    {
+      "name": "GoldNugge8",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gold_nugge_8"
+    },
+    {
+      "name": "GoldNugget9",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gold_nugget_9"
+    },
+    {
+      "name": "GoldNugget10",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gold_nugget_10"
+    },
+    {
+      "name": "NetheriteHelmet",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_helmet"
+    },
+    {
+      "name": "NetheriteChestplate",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_chestplate"
+    },
+    {
+      "name": "NetheriteLeggings",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_leggings"
+    },
+    {
+      "name": "NetheriteBoots",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_boots"
+    },
+    {
+      "name": "NetheriteHelmet2",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_helmet_2"
+    },
+    {
+      "name": "NetheriteChestplate2",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_chestplate_2"
+    },
+    {
+      "name": "NetheriteLeggings2",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_leggings_2"
+    },
+    {
+      "name": "NetheriteBoots2",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_boots_2"
+    },
+    {
+      "name": "NetheriteAxe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_axe"
+    },
+    {
+      "name": "NetheriteAxe2",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_axe_2"
+    },
+    {
+      "name": "NetheritePickaxe",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_pickaxe"
+    },
+    {
+      "name": "NetheritePickaxe2",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_pickaxe_2"
+    },
+    {
+      "name": "NetheriteShovel",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_shovel"
+    },
+    {
+      "name": "NetheriteShovel2",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_shovel_2"
+    },
+    {
+      "name": "NetheriteHoe",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_hoe"
+    },
+    {
+      "name": "NetheriteHoe2",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_hoe_2"
+    },
+    {
+      "name": "NetheriteSword",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_sword"
+    },
+    {
+      "name": "NetheriteSword2",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_sword_2"
+    },
+    {
+      "name": "TinyCoal",
+      "type": "item",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tiny_coal",
+      "path": "~/TinyCoal"
+    },
+    {
+      "name": "TinyCoalFuel",
+      "type": "itemextension",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tiny_coal_fuel",
+      "path": "~/TinyCoal"
+    },
+    {
+      "name": "TinyCoalRecipe",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tiny_coal_recipe",
+      "path": "~/TinyCoal"
+    },
+    {
+      "name": "TinyCharcoal",
+      "type": "item",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tiny_charcoal",
+      "path": "~/TinyCoal"
+    },
+    {
+      "name": "TinyCharcoalFuel",
+      "type": "itemextension",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tiny_charcoal_fuel",
+      "path": "~/TinyCoal"
+    },
+    {
+      "name": "TinyCharcoalRecipe",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tiny_charcoal_recipe",
+      "path": "~/TinyCoal"
+    },
+    {
+      "name": "OCTFuel",
+      "type": "tag",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oct_fuel",
+      "path": "~/TinyCoal"
+    },
+    {
+      "name": "CoalRecipe",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coal_recipe",
+      "path": "~/TinyCoal"
+    },
+    {
+      "name": "CharcoalRecipe",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "charcoal_recipe",
+      "path": "~/TinyCoal"
+    },
+    {
+      "name": "ZincIngot",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "zinc_ingot",
+      "path": "~/Create"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.omnipotentcraftingtable.tiny_charcoal": "Tiny Charcoal",
+      "item.omnipotentcraftingtable.tiny_coal": "Tiny Coal"
+    },
+    "zh_cn": {
+      "item.omnipotentcraftingtable.tiny_charcoal": "小型木炭",
+      "item.omnipotentcraftingtable.tiny_coal": "小型煤炭"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "TinyCoal",
+        "children": []
+      },
+      {
+        "name": "Create",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "omnipotentcraftingtable",
+    "modName": "OmnipotentCraftingTable",
+    "version": "1.0.3",
+    "description": "Enables the crafting table to make recipes for other squares.",
+    "author": "FuBangkun",
+    "websiteURL": "https://mcreator.net",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.omnipitentcraftingtable",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

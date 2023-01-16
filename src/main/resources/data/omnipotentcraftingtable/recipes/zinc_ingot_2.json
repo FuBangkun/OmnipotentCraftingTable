@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:ores/zinc"
+    },
+    {
+      "tag": "omnipotentcraftingtable:oct_fuel"
+    }
+  ],
+  "result": {
+    "item": "create:zinc_ingot",
+    "count": 1
+  }
+}

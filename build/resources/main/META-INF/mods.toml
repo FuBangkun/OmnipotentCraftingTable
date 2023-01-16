@@ -1,10 +1,10 @@
 modLoader="javafml"
-loaderVersion="[43,)"
+loaderVersion="[36,)"
 license="GNU General Public License version 3 (GPLv3)"
 
 [[mods]]
 modId="omnipotentcraftingtable"
-version="1.0.3"
+version="1.0.4"
 displayName="OmnipotentCraftingTable"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
@@ -16,7 +16,7 @@ Enables the crafting table to make recipes for other squares.
 [[dependencies.omnipotentcraftingtable]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.19.2]"
+    versionRange="[1.16.5]"
     ordering="NONE"
     side="BOTH"
 
