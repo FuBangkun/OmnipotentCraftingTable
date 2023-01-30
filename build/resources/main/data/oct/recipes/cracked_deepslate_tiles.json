@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:deepslate_tiles"
+    },
+    {
+      "tag": "oct:fuel"
+    }
+  ],
+  "result": {
+    "item": "minecraft:cracked_deepslate_tiles",
+    "count": 1
+  }
+}

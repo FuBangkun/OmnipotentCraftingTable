@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "create:rose_quartz"
+    },
+    {
+      "tag": "create:sandpaper"
+    }
+  ],
+  "result": {
+    "item": "create:polished_rose_quartz",
+    "count": 32
+  }
+}

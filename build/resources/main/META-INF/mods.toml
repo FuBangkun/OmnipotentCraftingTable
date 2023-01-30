@@ -3,17 +3,17 @@ loaderVersion="[36,)"
 license="GNU General Public License version 3 (GPLv3)"
 
 [[mods]]
-modId="omnipotentcraftingtable"
-version="1.0.4"
+modId="oct"
+version="1.1.0"
 displayName="OmnipotentCraftingTable"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
 authors="FuBangkun"
 description='''
-Enables the crafting table to make recipes for other squares.
+让原本需要在其它方块上合成的东西在工作台上也可以合成，免去了合成时间和来回切换方块的时间。
 '''
 
-[[dependencies.omnipotentcraftingtable]]
+[[dependencies.oct]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.16.5]"

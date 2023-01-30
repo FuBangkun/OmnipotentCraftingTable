@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "oct:tiny_coal"
+    },
+    {
+      "item": "oct:tiny_coal"
+    },
+    {
+      "item": "oct:tiny_coal"
+    },
+    {
+      "item": "oct:tiny_coal"
+    },
+    {
+      "item": "oct:tiny_coal"
+    },
+    {
+      "item": "oct:tiny_coal"
+    },
+    {
+      "item": "oct:tiny_coal"
+    },
+    {
+      "item": "oct:tiny_coal"
+    }
+  ],
+  "result": {
+    "item": "minecraft:coal",
+    "count": 1
+  }
+}

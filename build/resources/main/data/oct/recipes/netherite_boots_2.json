@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "oct:netherite_nugget"
+    },
+    "1": {
+      "item": "oct:netherite_upgrade"
+    },
+    "2": {
+      "item": "oct:netherite_nugget"
+    },
+    "3": {
+      "item": "oct:netherite_nugget"
+    },
+    "5": {
+      "item": "oct:netherite_nugget"
+    }
+  },
+  "result": {
+    "item": "minecraft:netherite_boots",
+    "count": 1
+  }
+}

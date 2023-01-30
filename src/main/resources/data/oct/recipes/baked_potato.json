@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "tag": "oct:fuel"
+    }
+  ],
+  "result": {
+    "item": "minecraft:baked_potato",
+    "count": 1
+  }
+}

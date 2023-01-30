@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:salmon"
+    },
+    {
+      "tag": "oct:fuel"
+    }
+  ],
+  "result": {
+    "item": "minecraft:cooked_salmon",
+    "count": 1
+  }
+}

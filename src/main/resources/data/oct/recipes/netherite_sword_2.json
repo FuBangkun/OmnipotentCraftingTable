@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "oct:netherite_upgrade"
+    },
+    "1": {
+      "item": "oct:netherite_nugget"
+    },
+    "3": {
+      "item": "oct:netherite_nugget"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:netherite_sword",
+    "count": 1
+  }
+}

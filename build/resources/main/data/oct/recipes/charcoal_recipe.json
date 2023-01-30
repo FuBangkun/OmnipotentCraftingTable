@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "oct:tiny_charcoal"
+    },
+    {
+      "item": "oct:tiny_charcoal"
+    },
+    {
+      "item": "oct:tiny_charcoal"
+    },
+    {
+      "item": "oct:tiny_charcoal"
+    },
+    {
+      "item": "oct:tiny_charcoal"
+    },
+    {
+      "item": "oct:tiny_charcoal"
+    },
+    {
+      "item": "oct:tiny_charcoal"
+    },
+    {
+      "item": "oct:tiny_charcoal"
+    }
+  ],
+  "result": {
+    "item": "minecraft:charcoal",
+    "count": 1
+  }
+}
